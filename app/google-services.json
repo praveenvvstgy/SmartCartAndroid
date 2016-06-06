@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371163609681",
+    "firebase_url": "https://smart-shopping-1b7d5.firebaseio.com",
+    "project_id": "smart-shopping-1b7d5",
+    "storage_bucket": "smart-shopping-1b7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371163609681:android:bd001ae60b713911",
+        "android_client_info": {
+          "package_name": "com.praveengowda.app.smartshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371163609681-6dkchp0an623aomk03vh9nfcnq4svgd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhdCsY3fTj03Vkmz_kvliQ97VigT2YxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
